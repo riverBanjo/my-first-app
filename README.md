@@ -28,6 +28,6 @@ If you have suggestions for how my-first-app could be improved, or want to repor
 
 For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
-## License
+## About
 
-[ISC](LICENSE) © 2022 '])_{ <{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{18\tqA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA\tQA8EDFCS>
+This is mostly just River's playground for learning how to make a Github app.
